@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://LincDocs.github.io/mathwiki/sitemap.xml
